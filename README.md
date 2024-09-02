@@ -8,5 +8,5 @@ subarrays of nums where the bitwise AND of the elements of the subarray equals k
 ```
 go run main.go
 ```
-* write digits then press enter
-* write palindromic then press enter
+* write array via comma
+* write k
